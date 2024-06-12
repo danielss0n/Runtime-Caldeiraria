@@ -7,4 +7,4 @@ RUNTIME PLANTA BAIXA DA FÁBRICA EM TEMPO REAL
 
 - O HTML junto com o Javascript faz um get dos dados do endpoint dentro de um loop, e passa por cada DIV e compara com cada objeto do JSON para mudar as cores de acordo com as informações contidas
 
-![image](https://github.com/danielss0n/Runtime-Caldeiraria/assets/82897131/63f8ecb7-34e3-41b1-9736-ff266f3d4cdf)
+![image](https://github.com/danielss0n/Runtime-Caldeiraria/assets/82897131/fbe8ee95-a8af-4087-828d-9717a46a1a08)
