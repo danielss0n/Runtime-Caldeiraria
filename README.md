@@ -6,3 +6,5 @@ RUNTIME PLANTA BAIXA DA FÁBRICA EM TEMPO REAL
 - O servidor python começa a rodar no host 8000 e lê essa API JSON na pasta de rede e escreve num endpoint
 
 - O HTML junto com o Javascript faz um get dos dados do endpoint dentro de um loop, e passa por cada DIV e compara com cada objeto do JSON para mudar as cores de acordo com as informações contidas
+
+![image](https://github.com/danielss0n/Runtime-Caldeiraria/assets/82897131/63f8ecb7-34e3-41b1-9736-ff266f3d4cdf)
