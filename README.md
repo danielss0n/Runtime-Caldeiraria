@@ -7,6 +7,9 @@ RUNTIME PLANTA BAIXA DA FÁBRICA EM TEMPO REAL
 
 ![image](https://github.com/danielss0n/Runtime-Caldeiraria/assets/82897131/fbe8ee95-a8af-4087-828d-9717a46a1a08)
 
+![image](https://github.com/user-attachments/assets/30daae67-a934-4d0e-a3b7-c2f3cff0b938)
+
+
 ## Javascript que passa pelo JSON e o HTML:
 ```javascript
 laborDivs.forEach(div => {
